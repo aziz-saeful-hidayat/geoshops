@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'shops',
         'USER': 'shopadmin',
-        'PASSWORD': '@212543fulh',
+        'PASSWORD': 'shoppass',
         'HOST': 'localhost',
         'PORT': '5432',
     }
